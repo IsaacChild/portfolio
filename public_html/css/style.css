@@ -1,0 +1,40 @@
+nav a{
+    color: deepskyblue;
+}
+
+article p a {
+    color:  darkred;
+}
+
+#currentlink{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(http://media-cache-ec0.pinimg.com/736x/fc/cc/9d/fccc9dc81940317b7881c2be7f5c94c4.jpg);
+    background-size: cover;
+}
+
+h1{
+    border: 20px blue;
+}
+
+body{
+    text-decoration-color: blue;
+}
+
+body article p {
+    font-size: 20px
+}
+
+body h1{
+    font-size: 35px;
+}
+
+body article{
+    color: deepskyblue;
+}
+
+body h1{
+    color: darkred;
+}

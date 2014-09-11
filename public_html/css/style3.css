@@ -1,0 +1,33 @@
+nav a{
+    color: blue;
+}
+
+text{
+    text-decoration:  cyan;
+    
+}
+
+#current-link{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(http://www.solwininfotech.com/wp-content/uploads/2014/04/HTML3-CSS3.jpg);
+    background-size: cover;
+}
+
+body{
+    color: darkblue;
+}
+
+article p a{
+    color: lightskyblue;
+}
+
+body article{
+    font-size: 20px
+}
+
+body h1{
+    font-size:35px 
+}

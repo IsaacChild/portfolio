@@ -1,0 +1,20 @@
+nav a{
+    color: white;  
+}
+
+#currentlink{
+    text-decoration: none;
+}
+
+body{
+    background-image: url(http://cdn.twitrcovers.com/wp-content/uploads/2013/05/Deathstroke-l.jpg);
+    background-size: cover;
+}
+
+body{
+    color: red;
+}
+
+body article{
+    font-size: 25px;
+}
